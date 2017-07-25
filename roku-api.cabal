@@ -18,4 +18,6 @@ library
                      , http-client
                      , network
                      , text
+                     , xml
+                     , xml-extractors
   default-language:    Haskell2010
