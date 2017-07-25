@@ -10,8 +10,8 @@ cabal-version:       >=1.10
 
 library
   exposed-modules:     Network.Roku
+                     , Network.Roku.App
                      , Network.Roku.Keys
-                     , Network.Roku.Query
                      , Network.Roku.Request
   build-depends:       base >=4.9 && <4.10
                      , bytestring
